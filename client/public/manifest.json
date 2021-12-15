@@ -1,0 +1,7 @@
+{
+  "short_name": "RRSS App",
+  "name": "RRSS APP",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone"
+}
